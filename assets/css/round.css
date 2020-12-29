@@ -1,0 +1,5 @@
+select.round {
+  border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius:15px;
+    border-top-left-radius: 10px;
+}
